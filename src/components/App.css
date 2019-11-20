@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+.head{
+  /* width:1000px; */
+  height: 50px;
+  background-color: orange;
+}
+.offer{
+  background-color: orange;
+  width:1300px;
+  height:40px;
+}
+.beginimage{
+  margin-left:80px;
+  margin-top: 30px;
+  height:300px;
+  width:600px
+}
+.nav{
+  margin-left: 110px;
+}
+.btn{
+  margin-top:40px;
+  font-size: 20px;
+}
+.rate{
+  color:red;
+}
+.display{
+ margin-top: 20px;
+ padding:10px;
+}
+.head{
+  color:green;
+}
+.search{
+  padding:30px;
+  color:red;
+  margin-left:150px;
+  margin-top:10px;
+}
+.appear{
+  width:200px;
+  height:30px;
+  background-color: greenyellow;
+  border-radius: 3px;
+  /* background-color: orange; */
+}
